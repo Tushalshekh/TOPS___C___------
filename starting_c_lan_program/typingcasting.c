@@ -10,4 +10,5 @@ int main()
   e=(float)a/(float)b;
   printf("\n the ans is: %.2f",e);
   return 0;
+  
 }
